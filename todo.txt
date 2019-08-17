@@ -1,3 +1,4 @@
 # This text doc will display the tasks to do on the website. It is a to-do list.
 -Finish heading
 -Start Navigation bar
+***-Turn bottom text into div. Find out if divs are better than paragraphs, or if you can put paragraphs in divs.
